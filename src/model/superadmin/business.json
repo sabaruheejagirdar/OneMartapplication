@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Starbucks",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+    "image": "/app/asset/images/starbucks-open.jpg"
+  },
+  {
+    "name": "Chick-fil-A",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+    "image": "/app/asset/images/chick-fil-a.jpg"
+  },
+  {
+    "name": "Subway",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+    "image": "/app/asset/images/subway-open.jpg"
+  },
+  {
+    "name": "The coffee shop",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+    "image": "/app/asset/images/starbucks.jpg"
+  },
+  {
+    "name": "Panda Express",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+    "image": "/app/asset/images/sandwich.jpg"
+  },
+  {
+    "name": "Impossibles",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+    "image": "/app/asset/images/starbucks-open.jpg"
+  }
+]

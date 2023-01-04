@@ -1,0 +1,22 @@
+[
+  {
+    "name": "UTA",
+    "description": "Major- CSE",
+    "image": "/app/asset/images/uta.jpg"
+  },
+  {
+    "name": "UTD",
+    "description": "Major- CE",
+    "image": "/app/asset/images/utd.png"
+  },
+  {
+    "name": "Halloween",
+    "description": "Major- Biology",
+    "image": "/app/asset/images/halloween.jpg"
+  },
+  {
+    "name": "GIT",
+    "description": "Cyber Security",
+    "image": "/app/asset/images/web3.JPG"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Furniture - Sofa",
+    "price": 19,
+    "image": "/app/asset/images/sofa.jpg",
+    "owner": true,
+    "purchased": false
+  },
+  {
+    "id": 1,
+    "name": "Study Lamp",
+    "price": 5,
+    "image": "/app/asset/images/studyLamp.jpg",
+    "owner": false,
+    "purchased": true
+  },
+  {
+    "id": 2,
+    "name": "TextBook",
+    "price": 6,
+    "image": "/app/asset/images/databaseTextbook.jpg",
+    "owner": false,
+    "purchased": false
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "price": 98,
+    "image": "/app/asset/images/dataBreach.jpg",
+    "owner": false,
+    "purchased": false
+  },
+  {
+    "id": 4,
+    "name": "Notepad",
+    "price": 15,
+    "image": "/app/asset/images/notepad.jpg",
+    "owner": false,
+    "purchased": false
+  }
+]

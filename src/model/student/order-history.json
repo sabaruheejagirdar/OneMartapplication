@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "Furniture - Sofa",
+    "price": 19,
+    "image": "/app/asset/images/sofa.jpg",
+    "owner": false,
+    "purchased": true,
+    "date": "12/10/21"
+  },
+  {
+    "id": 1,
+    "name": "Headphones",
+    "price": 25,
+    "image": "/app/asset/images/headphones.jpg",
+    "owner": false,
+    "purchased": true,
+    "date": "21/10/21"
+  }
+]
